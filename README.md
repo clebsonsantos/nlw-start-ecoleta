@@ -10,5 +10,7 @@ mostrara aos interessados em coletar resíduos os locais onde existem pessoas co
 deixam dispostos para coletas. 
 
 
+![image](https://user-images.githubusercontent.com/60331806/83958578-ca664380-a849-11ea-946c-81bb94d7aca5.png)
+
 
 
