@@ -13,10 +13,20 @@ deixam dispostos para coletas.
 ![image](https://user-images.githubusercontent.com/60331806/83958578-ca664380-a849-11ea-946c-81bb94d7aca5.png)
 
 
+
+
 Na tela de cadastro é possivel adiconar as informações básicas da entidade e os resíduos que estão disponíveis para serem coletados
+
+
 
 ![image](https://user-images.githubusercontent.com/60331806/83958635-6a23d180-a84a-11ea-9eab-97f7508c4d5f.png)
 
 
 
 Após finalizado o cadastro é possivel consultar os itens cadastrados pesquisando pela cidade, ou por parte da mesma. 
+
+
+![image](https://user-images.githubusercontent.com/60331806/83958664-cd156880-a84a-11ea-827c-8042711a3109.png)
+
+
+
