@@ -49,6 +49,9 @@ npm install
 npm run dev
 ```
 
+## Licença
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 
