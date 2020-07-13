@@ -1,7 +1,7 @@
 
 # Ecoleta
 
-# Projeto desenvolvido durante a NEXT LEVEL WEEK - NLW --- ROCKETSEAT
+# Projeto desenvolvido durante a NLW-Start ROCKETSEAT
 
 ## Ideia geral:
 
@@ -46,7 +46,7 @@ Após finalizado o cadastro é possivel consultar os itens cadastrados pesquisan
 
 ```python
 npm install
-npm rum dev
+npm run dev
 ```
 
 
