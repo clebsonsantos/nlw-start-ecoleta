@@ -1,9 +1,9 @@
-https://raw.githubusercontent.com/Rocketseat/nlw-01-starter/f80217315b49e27f01b39dbf96ab06c1360ac57c/.github/ecoleta.svg
-Ecoleta
 
-#Projeto desenvolvido durante a NEXT LEVEL WEEK - NLW --- ROCKETSEAT
+# Ecoleta
 
-##Ideia geral:
+# Projeto desenvolvido durante a NEXT LEVEL WEEK - NLW --- ROCKETSEAT
+
+## Ideia geral:
 
 Foi idealizado para que empresas e pessoas possam se cadastrar em um banco de dados(melhorias futuras a serem feitas)
 onde possam indicar através desse cadastro locais espalhados pelo país que façam coleta de resíduos, mas precisamente, 
@@ -28,21 +28,22 @@ Após finalizado o cadastro é possivel consultar os itens cadastrados pesquisan
 ![image](https://user-images.githubusercontent.com/60331806/83958664-cd156880-a84a-11ea-827c-8042711a3109.png)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-###Tecnologias utilizadas:
+### Tecnologias utilizadas:
 - Nodejs
 - Node.js
 - Express
 - SQLite
 - Nunjucks
 
-###Como contribuir?
+### Como contribuir?
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: git checkout -b minha-feature;
 - Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
 - Faça push para a sua branch: git push origin minha-feature.
 
-##Uso
+## Uso
+
 ```python
 npm install
 npm rum dev
