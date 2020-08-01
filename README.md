@@ -29,7 +29,6 @@ deixam dispostos para coletas.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Tecnologias utilizadas:
-- Nodejs
 - Node.js
 - Express
 - SQLite
