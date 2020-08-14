@@ -3,7 +3,10 @@
     <img src="./public/icones/logo.svg" width="200">
 </p>
 
-### Projeto desenvolvido durante a nlw-start-rocketseat
+<p align="center" >
+    <b> Projeto desenvolvido durante a nlw-start-rocketseat</b>
+</p>
+
 
 ## Ideia geral:
 
