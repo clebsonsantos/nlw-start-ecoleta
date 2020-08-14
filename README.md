@@ -1,5 +1,7 @@
 
-# Ecoleta
+<p align="center" >
+    <img src="./public/icones/logo.svg" width="200">
+</p>
 
 ### Projeto desenvolvido durante a nlw-start-rocketseat
 
