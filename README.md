@@ -50,7 +50,7 @@ deixam dispostos para coletas.
 
 ```python
 npm install
-npm run dev
+npm start
 ```
 
 ## Licença
